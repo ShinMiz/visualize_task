@@ -1,0 +1,9 @@
+# SQLite DB
+task.db
+
+# カテゴリ設定ファイル
+categories.json
+
+# その他の一時ファイルなど
+__pycache__/
+*.pyc
