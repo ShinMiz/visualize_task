@@ -1,5 +1,5 @@
 # SQLite DB
-task.db
+tasks.db
 
 # カテゴリ設定ファイル
 categories.json
